@@ -1,10 +1,10 @@
 # Star Wars: Fall of the Jedi -  Mr Pitiful's Open Source Fan Edit of Episodes I - III
 
 This is one Star Wars fan's passion project, taking the mess of Episodes I-III 
-and editing them into a single, cohesive, and hopefully dececent film.
+and editing them into a single, cohesive, and hopefully decent film.
 
 It is also an attempt to show this can be done legally and through open source.
-This repo includes only the Adobe Premeire project files and reference stills.
+This repo includes only the Adobe Premiere project files and reference stills.
 
 To watch the movie, legally owned copies of the source films will need to be 
 added to the project, and then the film can be rendered.  
@@ -16,7 +16,7 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
 [![Yoda Battles Palpatine from Star Wars: Fall of the Jedi - Mr Pitiful Fan Edit ](http://imgur.com/sZYWpZL.png)](https://vimeo.com/180134011)
 
 ## TLDR; of How to Render and Watch
-* Download the [Adobe Premeire project](https://github.com/ScottMonaghan/Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit/archive/master.zip).
+* Download the [Adobe Premiere project](https://github.com/ScottMonaghan/Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit/archive/master.zip).
 * Replace the offline source footage with legally obtained footage of Episodes I-III 
 * Align the footage in the Alignement Sequences with the reference frame
 * Render and enjoy!
@@ -25,7 +25,7 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
 ## Step-by-Step Instructions of How to Render and Watch
 
 ### What You'll Need to Get Started:
-* **Adobe Premeire**
+* **Adobe Premiere**
   * Available for $19.99 - $29.99/mo from [Adobe Creative Cloud](https://creative.adobe.com/plans?single_app=premiere)
 * **Legal Digital Copies of Star Wars Episodes I - III**
   * From iTunes Store (recommended)
@@ -33,17 +33,17 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
     * [Star Wars: Attack of the Clones](https://itunes.apple.com/us/movie/star-wars-attack-of-the-clones/id975101586)
     * [Star Wars: Revenge of the Sith](https://itunes.apple.com/us/movie/star-wars-revenge-of-the-sith/id975521762)
   * Have Different Legal Digital Copies of Episodes I-III?
-    * Don't worry, they will likely still work.  You just need to get them into a format that you can import into Premeire. 
+    * Don't worry, they will likely still work.  You just need to get them into a format that you can import into Premiere. 
     * Email me at scott.monaghan@gmail.com and I can help if you have any trouble.
 * **Noteburner** (only for iTunes copies of the movies)
-    * Removes DRM from iTunes movies to allow them to be imported into Premeire
+    * Removes DRM from iTunes movies to allow them to be imported into Premiere
     * $19.99 from [noteburner.com](https://noteburner.com)
-* **The latest commit of this Premeire Project!**
+* **The latest commit of this Premiere Project!**
   * [Download it here!](https://github.com/ScottMonaghan/Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit/archive/master.zip)!
 
 ### I: Remove DRM from the iTunes Source Files 
 
-In order to import your source files into Premeire, you will need to make sure DRM is removed.  If you already have legal DRM-free digital copies of Episodes I-III you can skip this step.  This tutorial only covers removing DRM from movies downloaded from the iTunes store.  If you own legal copies in a different format, (e.g. Blu-Ray), contact me at scott.monaghan@gmail.com and I'll give you a hand.  Also, if you happen to be successful doing this yourself and want to update this tutorial with instructions, feel free to update and send me a pull request.
+In order to import your source files into Premiere, you will need to make sure DRM is removed.  If you already have legal DRM-free digital copies of Episodes I-III you can skip this step.  This tutorial only covers removing DRM from movies downloaded from the iTunes store.  If you own legal copies in a different format, (e.g. Blu-Ray), contact me at scott.monaghan@gmail.com and I'll give you a hand.  Also, if you happen to be successful doing this yourself and want to update this tutorial with instructions, feel free to update and send me a pull request.
 
 #### Convert Your Files with Noteburner M4V Converter Plus
 ![Noteburner Example](http://imgur.com/8Hl1AKg.png)
@@ -70,15 +70,15 @@ In order to import your source files into Premeire, you will need to make sure D
  
 
 ### IV: Import the Source Files
-1. Open Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit.prproj in Adobe Premeire
+1. Open Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit.prproj in Adobe Premiere
 2. In the project window, expand the Source > Raw Footage Folder.
 3. The 3 clips should have question marks as shown below:
-  ![Raw Footage Folder in Premeire](http://imgur.com/GBQvBL8.png)
+  ![Raw Footage Folder in Premiere](http://imgur.com/GBQvBL8.png)
 4. Right-Click (Windows) or Control-Click (Mac) on Star Wars_ Attack of the Clones.mp4 and choose "Replace Footage..."
   ![Replace Footage...](http://imgur.com/nEWbm6O.png)
 5. Find select Star Wars_Attack of the Clones.mp4 on disk.
   ![Select mp4 file](http://imgur.com/HFvENMD.png)
-6. After selecting the clip in the Premeire Project pane should have changed from a question mark to an audio/video icon:
+6. After selecting the clip in the Premiere Project pane should have changed from a question mark to an audio/video icon:
   ![Audio/Video Icon](http://imgur.com/QooSGn2.png)
 7. Repeat steps 4-6 for Phantom Menace and Revenge of the Sith
 
