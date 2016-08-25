@@ -18,7 +18,7 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
 ## TLDR; of How to Render and Watch
 * Download the [Adobe Premiere project](https://github.com/ScottMonaghan/Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit/archive/master.zip).
 * Replace the offline source footage with legally obtained footage of Episodes I-III 
-* Align the footage in the Alignement Sequences with the reference frame
+* Align the footage in the Alignment Sequences with the included reference frames
 * Render and enjoy!
 
 
