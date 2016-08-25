@@ -1,6 +1,6 @@
 # Star Wars: Fall of the Jedi -  Mr Pitiful's Open Source Fan Edit of Episodes I - III
 
-This is one Star Wars fan's passion project of taking the mess of Episodes I-III 
+This is one Star Wars fan's passion project, taking the mess of Episodes I-III 
 and editing them into a single, cohesive, and hopefully dececent film.
 
 It is also an attempt to show this can be done legally and through open source.
