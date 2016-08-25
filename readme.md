@@ -11,9 +11,15 @@ added to the project, and then the film can be rendered.
 
 How do you do that?  Instructions below!
 
-## How to Render and Watch!?
 
-A quick introduction of the minimal setup you need to watch this film.
+## TLDR; of How to Render and Watch
+* Download the [Adobe Premeire project](https://github.com/ScottMonaghan/Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit/archive/master.zip).
+* Replace the offline source footage with legally obtained footage of Episodes I-III 
+* Align the footage in the Alignement Sequences with the reference frame
+* Render and enjoy!
+
+
+## Step-by-Step Instructions of How to Render and Watch
 
 ### What You'll Need to Get Started:
 * **Adobe Premeire**
@@ -38,6 +44,7 @@ In order to import your source files into Premeire, you will need to make sure D
 
 #### Convert Your Files with Noteburner M4V Converter Plus
 ![Noteburner Example](http://imgur.com/8Hl1AKg.png)
+
 1. Be sure you've downloaded all 3 movies on your local copy of iTunes
 2. Open Noteburner M4V Plus
 3. Choose the Episode I-III
@@ -82,11 +89,34 @@ To get this whole thing to work, I have a single reference frame in video track 
 ####Here's what we need to do:
 1. Expand the "Episode I" folder under the "Source" folder in the Project window.
 2. Double Click on "Episode I Alignment Sequence"
-...![Alignment Sequence in Project Window](http://imgur.com/lw4Wuo3.png)
+  ![Alignment Sequence in Project Window](http://imgur.com/lw4Wuo3.png)
 3. In the Sequence pane target the V3 track
   * Click on the V3 and make sure it is dark blue as shown below:
-...![Target V3] (http://imgur.com/DaiH7Ss.png)
+  * ![Target V3](http://imgur.com/DaiH7Ss.png)
 4. Be sure the Sequence pane is selected and press the down arrow key until the blue scrubber is lined up exactly at the beginning of the clip in V3 as so:
+  ![Align Scrubber](http://imgur.com/mwqLYOT.png)
+5. Click the eye icon to toggle the visibility on and off on V3 while watching the Preview pane.
+  * You should see no change or jump in the preview window.
+  * If you do, slide the V2 clip left/right until it lines up perfectly to the frame.
+  * The preview window should look like this:
+  * ![Properly Aligned Preview Window](http://imgur.com/HAcXSe4.png)
+6. **IMPORTANT: make sure to toggle OFF visibility of V3 when done** 
+  otherwise you might end up rendering the reference frame in the final cut.
+7. Repeat steps 1-6 for Episode II and Episode III
+
+
+
+### VI: Export the Main Draft!
+1. Find the "Main Draft" sequence in the Project pane.
+2. Right-Click (Windows) or Control-Click (Mac) on the "Main Draft" sequence.
+3. Choose "Export Media..."
+  ![Export Main Draft](http://imgur.com/PJxVW2U.png)
+4. Export to your favorite format 
+  Recommended Export Settings:
+  ![Recommended Export Settings](http://imgur.com/5n6QxqG.png)
+
+
+### VII: ENJOY THE FILM!!!
 
 
 
