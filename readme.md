@@ -1,3 +1,5 @@
+**NOTE: This project does not contain any copyrighted footage.  It only contains a sequence file allowing users to take their own legally obtained footage, and render them into a re-edited film for personal use**
+
 Questions: Contact me at scott.monaghan@gmail.com
 
 # Star Wars: Fall of the Jedi -  Mr Pitiful's Open Source Fan Edit of Episodes I - III
