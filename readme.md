@@ -1,4 +1,4 @@
-**NOTE: This project does not contain any copyrighted footage.  It only contains a sequence file allowing users to take their own legally obtained footage, and render them into a re-edited film for personal use**
+**NOTE: This project does not contain any copyrighted footage.  It only contains a sequence file allowing users to take their own legally obtained footage, and render them into a re-edited film for personal use.**
 
 Questions: Contact me at scott.monaghan@gmail.com
 
