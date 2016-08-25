@@ -1,3 +1,5 @@
+Questions: Contact me at scott.monaghan@gmail.com
+
 # Star Wars: Fall of the Jedi -  Mr Pitiful's Open Source Fan Edit of Episodes I - III
 
 This is one Star Wars fan's passion project, taking the mess of Episodes I-III 
