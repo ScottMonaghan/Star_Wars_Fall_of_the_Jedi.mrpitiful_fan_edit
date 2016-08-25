@@ -11,6 +11,9 @@ added to the project, and then the film can be rendered.
 
 How do you do that?  Instructions below!
 
+##But first, watch a clip!
+Here Yoda and Palpatine battle, uninterrupted, without the constant cut aways in the original Revenge of the Sith
+[![Yoda Battles Palpatine from Star Wars: Fall of the Jedi - Mr Pitiful Fan Edit ](http://imgur.com/sZYWpZL.png)](https://vimeo.com/180134011)
 
 ## TLDR; of How to Render and Watch
 * Download the [Adobe Premeire project](https://github.com/ScottMonaghan/Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit/archive/master.zip).
