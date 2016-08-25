@@ -36,12 +36,17 @@ A quick introduction of the minimal setup you need to watch this film.
 
 In order to import your source files into Premeire, you will need to make sure DRM is removed.  If you already have legal DRM-free digital copies of Episodes I-III you can skip this step.  This tutorial only covers removing DRM from movies downloaded from the iTunes store.  If you own legal copies in a different format, (e.g. Blu-Ray), contact me at scott.monaghan@gmail.com and I'll give you a hand.  Also, if you happen to be successful doing this yourself and want to update this tutorial with instructions, feel free to update and send me a pull request.
 
-#### Load Your Files into Noteburner M4V Converter Plus
-![Noteburner Example](http://imgur.com/8Hl1AKg)
+#### Convert Your Files with Noteburner M4V Converter Plus
+![Noteburner Example](http://imgur.com/8Hl1AKg.png)
  * It should look like the screenshot above
  * Press Convert
  * **NOTE: This will take a while. You might want to leave this running over night**
+ * **When finished, spot check your videos to be sure to check that the audio and video properly converted.**
 
+### Step 2: Unzip the Master.zip!
+![Expected File Structure After Unzip](http://imgur.com/z3anl6x.png)
+### Step 3: Copy the Converted Source Files into a "source" Folder Wherever you Unzipped Master.zip
+![Expected File Structure with Source Files](http://imgur.com/cjBIHrN.png)
 
 
 
