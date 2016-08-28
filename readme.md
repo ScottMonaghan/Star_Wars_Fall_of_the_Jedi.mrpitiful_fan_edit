@@ -29,7 +29,7 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
 ## Step-by-Step Instructions of How to Render and Watch
 
 ### What You'll Need to Get Started:
-* **Adobe Premiere**
+* **Adobe Premiere CC 2016 or Later**
   * Available for $19.99 - $29.99/mo from [Adobe Creative Cloud](https://creative.adobe.com/plans?single_app=premiere)
 * **Legal Digital Copies of Star Wars Episodes I - III**
   * From iTunes Store (recommended)
