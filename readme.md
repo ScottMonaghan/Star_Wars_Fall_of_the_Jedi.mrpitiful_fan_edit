@@ -22,7 +22,7 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
 ##Summary of Edits
 ### 1.1
 **Updated Ending**
-* Props to http://reddit.com/u/noodle-finger for inspiration
+* Props to http://reddit.com/u/noodle-flinger for inspiration
 * Removed excess dialogue and reactions surrounding padme’s delivery
 and death
 * Split Padme’s delivery and transformation into Vader into two
