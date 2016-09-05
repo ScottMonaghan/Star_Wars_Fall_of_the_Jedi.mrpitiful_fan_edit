@@ -19,12 +19,37 @@ How do you do that?  Instructions below!
 Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away from the action, as it was edited in the original Revenge of the Sith.
 [![Yoda Battles Palpatine from Star Wars: Fall of the Jedi - Mr Pitiful Fan Edit ](http://imgur.com/sZYWpZL.png)](https://vimeo.com/180134011)
 
+##Summary of Edits
+### 1.0.3
+**Updated Ending**
+* Props to http://reddit.com/u/noodle-finger for inspiration
+* Removed excess dialogue and reactions surrounding padme’s delivery
+and death
+* Split Padme’s delivery and transformation into Vader into two
+separate sequences
+* Removed Padme naming Leia as to not serve as spoiler for ROTJ when
+watching in machete order
+* Added rhythmic fadeouts to simulate  Vader’s coming in and out of
+consciousness during his surgery
+* Cut directly from Padme’s death to Vader’s rise
+* Removed Vader’s zombie walk and NOooOOOOooOOoOO
+* Removed “what do we do with the kids and where do we go now”
+conversation between Yoda, Obi Wan and Organa
+* Cut right to “Directed by George Lucas” following Vader, Palpatine,
+and Tarkin looking over the construction of the Death Star
+* Updated the initial (non-scrolling) credits to include credits from
+all 3 movies without split screen.
+* Add Mr. Pitiful:) to the credits as one of the editors
+* Moved hopeful delivery of Leia and Luke to mid-credits scene
+  * (an attempt at a humorous take on the Marvel Cinematic Universe’s
+habit of post-credit scenes teasing future films)
+
+
 ## TLDR; of How to Render and Watch
 * Download the [Adobe Premiere project](https://github.com/ScottMonaghan/Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit/archive/master.zip).
 * Replace the offline source footage with legally obtained footage of Episodes I-III 
 * Align the footage in the Alignment Sequences with the included reference frames
 * Render and enjoy!
-
 
 ## Step-by-Step Instructions of How to Render and Watch
 
