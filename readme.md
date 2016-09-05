@@ -20,7 +20,7 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
 [![Yoda Battles Palpatine from Star Wars: Fall of the Jedi - Mr Pitiful Fan Edit ](http://imgur.com/sZYWpZL.png)](https://vimeo.com/180134011)
 
 ##Summary of Edits
-### 1.0.3
+### 1.1
 **Updated Ending**
 * Props to http://reddit.com/u/noodle-finger for inspiration
 * Removed excess dialogue and reactions surrounding padme’s delivery
@@ -44,7 +44,7 @@ all 3 movies without split screen.
   * (an attempt at a humorous take on the Marvel Cinematic Universe’s
 habit of post-credit scenes teasing future films)
 
-### 1.0.0
+### 1.0
 **Initial Release!**
 * Wanted to focus on the Anakin's arc plus the arc of the fall of the Republic in the background. Anything that didn't move the story forward I cut, while trying to have it make sense for anyone who has never seen Star Wars.
 * Cut all of Phantom Menace except the Darth Maul fight as a prologue.
