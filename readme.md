@@ -44,6 +44,27 @@ all 3 movies without split screen.
   * (an attempt at a humorous take on the Marvel Cinematic Universe’s
 habit of post-credit scenes teasing future films)
 
+### 1.0.0
+**Initial Release!**
+* Wanted to focus on the Anakin's arc plus the arc of the fall of the Republic in the background. Anything that didn't move the story forward I cut, while trying to have it make sense for anyone who has never seen Star Wars.
+* Cut all of Phantom Menace except the Darth Maul fight as a prologue.
+* Started right from the 2nd assassination of padme to establish Anakin, Obi Wan, and Padme's characters
+* Cut all of Kamino (Obi Wan explains through exposition)
+* Cut all references to Padme and Anakin's age difference
+* Kept a bare minimum of Anakin / Padme on Naboo to establish that they are into each other
+* Cut all of Anakin & Padme's trip to Tatooine and his mother
+* Cut all R2 D2 / C3PO slapstick
+* Cut all Jar Jar
+* Simplified Geonosis
+  * Cut factory battle
+  * Cut monsters from arena
+  * Lowered the cheese level on Padme's love declaration.
+* Cut opening battle from III (Obi Wan delivers it through exposition)
+* Reordered scenes to clarify the fear of losing Padme as Anakin's primary motivation with Palpatine offering his only out and the Jedi not treating him well.
+* Cut all of the Obi Wan / General Grevious to focus on Anakin just hearing about it, and becoming more resentful he is left out.
+* Separated Yoda/Palpatine from Obi Wan/Anakin to allow the Y/P to serve as warmup for the OW/A main event
+* Removed evidence that Obi Wan was on Padme's ship to Mustafar so we don't see Obi Wan until Padme does, our hopes crushed with hers:)
+* Plus a whole bunch of other small things to make it all work.
 
 ## TLDR; of How to Render and Watch
 * Download the [Adobe Premiere project](https://github.com/ScottMonaghan/Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit/archive/master.zip).
