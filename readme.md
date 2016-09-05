@@ -159,9 +159,9 @@ To get this whole thing to work, I have a single reference frame in video track 
 
 
 
-### VI: Export the Main Draft!
-1. Find the "Main Draft" sequence in the Project pane.
-2. Right-Click (Windows) or Control-Click (Mac) on the "Main Draft" sequence.
+### VI: Export the Main Sequence!
+1. Find the "Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit.x.x" sequence in the Project pane.
+2. Right-Click (Windows) or Control-Click (Mac) on the "Star_Wars_Fall_of_the_Jedi.mrpitiful_fan_edit.x.x" sequence.
 3. Choose "Export Media..."
   ![Export Main Draft](http://imgur.com/PJxVW2U.png)
 4. Export to your favorite format 
