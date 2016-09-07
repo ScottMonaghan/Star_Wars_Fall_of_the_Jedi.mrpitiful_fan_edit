@@ -19,6 +19,23 @@ How do you do that?  Instructions below!
 Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away from the action, as it was edited in the original Revenge of the Sith.
 [![Yoda Battles Palpatine from Star Wars: Fall of the Jedi - Mr Pitiful Fan Edit ](http://imgur.com/sZYWpZL.png)](https://vimeo.com/180134011)
 
+## Goals of Finished Edit
+
+* Create a single cohesive film that is enjoyable and does not require any previous Star Wars knowledge.
+* Focus on the Anakin arc from Jedi hero to the dark side, plus the arc of the fall of the Republic in the background. 
+* Ensure that the nothing in the changed edit contradicts [Star Wars canon](https://en.wikipedia.org/wiki/Star_Wars_canon). 
+* Cut anything that distracts from above.
+* Keep the fun popcorn action-adventure tone of the franchise.
+* Play down and eliminate what I consider to be the most unwatchable elements of the sequels:
+  * Complex political speeches
+  * Misfired comic relief (Jar Jar Binks, C3PO & R2D2)
+  * Anakin's childlike emotional outbursts
+  * The age difference between Anakin and Padme
+  * The lack of believable chemistry and terrible dialogue between Anakin and Padme
+    * **Editor's Note:** The way I look at it is, you don't need to understand _why_ they fell in love, just that they _did_, if inexplicably.  Which, of course, happens all the time in real life.  I'm sure anyone can think right now of a friend or family member that is in a relationship with someone that makes absolutely no sense to anyone.
+  
+**Please let me know if you think I succeeded or not at scott.monaghan@gmail.com!**
+
 ##Summary of Edits
 ### 1.1
 **Updated Ending**
