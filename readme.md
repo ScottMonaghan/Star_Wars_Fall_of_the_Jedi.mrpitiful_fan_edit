@@ -24,6 +24,7 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
 * Create a single cohesive film that is enjoyable and does not require any previous Star Wars knowledge.
 * Focus on the Anakin arc from Jedi hero to the dark side, plus the arc of the fall of the Republic in the background. 
 * Ensure that the nothing in the changed edit contradicts [Star Wars canon](https://en.wikipedia.org/wiki/Star_Wars_canon). 
+* When watched in [Machete order](http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/), the cut should have no spoilers and provide everything needed to bridge between Episodes V-VI.
 * Cut anything that distracts from above.
 * Keep the fun popcorn action-adventure tone of the franchise.
 * Play down and eliminate what I consider to be the most unwatchable elements of the sequels:
