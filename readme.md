@@ -19,6 +19,13 @@ How do you do that?  Instructions below!
 Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away from the action, as it was edited in the original Revenge of the Sith.
 [![Yoda Battles Palpatine from Star Wars: Fall of the Jedi - Mr Pitiful Fan Edit ](http://imgur.com/sZYWpZL.png)](https://vimeo.com/180134011)
 
+This is getting pretty long so I added a
+##Table of Contents
+* [Goals of Finished Edit](#goals-of-finished-edit)
+* [Reviews!](#reviews)
+* [Summary of Edits](#summary-of-edits)
+* [How to Render and Watch](#tldr-of-how-to-render-and-watch)
+
 ## Goals of Finished Edit
 
 * Create a single cohesive film that is enjoyable and does not require any previous Star Wars knowledge.
