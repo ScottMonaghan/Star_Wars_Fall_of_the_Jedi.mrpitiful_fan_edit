@@ -42,14 +42,14 @@ Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away f
 ####Liked:
 > I had seen another edit a few years ago but this one is far and away superior... 
 
-> I like that *there was a coherent story* and I tried to watch and judge it as if I had no knowledge of the prequels. I think *this movie was successful as a standalone*...
+> I like that **there was a coherent story** and I tried to watch and judge it as if I had no knowledge of the prequels. I think **this movie was successful as a standalone**...
 
-> *You also somehow made the Anakin/Padme romance less awkward so well done*. I also appreciated how many callbacks in the dialog were preserved in the new cut. 
+> **You also somehow made the Anakin/Padme romance less awkward so well done**. I also appreciated how many callbacks in the dialog were preserved in the new cut. 
 
-> *Overall this was fantastic!* I will definitely be rewatching it in the future and hope to show friends that have never seen the prequels before and hear their take on it. Also I loved the Marvel-esque mid credits scene for the kids. Great work and thanks again for sharing.
+> **Overall this was fantastic!** I will definitely be rewatching it in the future and hope to show friends that have never seen the prequels before and hear their take on it. Also I loved the Marvel-esque mid credits scene for the kids. Great work and thanks again for sharing.
 
 ####Didn't Like:
-> My one criticism would be that (especially in the first half) *a lot of moments didn't feel like they had a chance to land*. We would see a scene and then immediately transition to something else without a moment for breath. 
+> My one criticism would be that (especially in the first half) **a lot of moments didn't feel like they had a chance to land**. We would see a scene and then immediately transition to something else without a moment for breath. 
 
 ##Summary of Edits
 ### 1.1
