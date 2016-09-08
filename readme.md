@@ -53,7 +53,7 @@ This is getting pretty long so I added a
 
 > **You also somehow made the Anakin/Padme romance less awkward so well done**. I also appreciated how many callbacks in the dialog were preserved in the new cut. 
 
-> **Overall this was fantastic!** I will definitely be rewatching it in the future and hope to show friends that have never seen the prequels before and hear their take on it. Also I loved the Marvel-esque mid credits scene for the kids. Great work and thanks again for sharing.
+> **Overall this was fantastic!** I will definitely be rewatching it in the future and hope to show friends that have never seen the prequels before and hear their take on it. **Also I loved the Marvel-esque mid credits scene for the kids**. Great work and thanks again for sharing.
 
 ####Didn't Like:
 > My one criticism would be that (especially in the first half) **a lot of moments didn't feel like they had a chance to land**. We would see a scene and then immediately transition to something else without a moment for breath. 
