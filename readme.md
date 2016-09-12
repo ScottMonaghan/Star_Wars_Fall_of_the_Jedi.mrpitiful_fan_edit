@@ -64,10 +64,8 @@ This is getting pretty long so I added a
 
 > **It felt odd not seeing Grievous**. I understand the reasoning, but he was cool.
 
-> I thought the clones felt rushed because we don't hear very much about them...
+> I thought the **clones felt rushed** because we don't hear very much about them...
 
-####Didn't Like:
-> My one criticism would be that (especially in the first half) **a lot of moments didn't feel like they had a chance to land**. We would see a scene and then immediately transition to something else without a moment for breath...
 
 ###[/u/button_man's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7e0r2w)
 ####Liked:
