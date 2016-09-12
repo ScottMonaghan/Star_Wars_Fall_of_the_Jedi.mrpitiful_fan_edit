@@ -45,7 +45,14 @@ This is getting pretty long so I added a
 **Please let me know if you think I succeeded or not at scott.monaghan@gmail.com!**
 
 ##Reviews!
-###[/u/Devee's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/)
+###[/u/Gray_party_of_2's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7jubzc)
+####Liked:
+> I got a chance to watch this and I will say that **I am very impressed**. I **very good job**. I was surprised by some of the cuts but taken in context of the end goal I think I am on board. I think lots of the action scenes that were cut are fun to watch but in the end are not needed for the story to work and get us to a reasonable movie length.
+I have not watch any cut version before, so I was going in blind. **The opening scene with Darth Mal(sp?) looking right at us and going right into the action was a lot of fun.**
+In closing, **I LOVED IT**. Thank you so much for sharing!
+
+
+###[/u/Devee's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7h9anw)
 ####Liked:
 > I'd never seen any fan edit previously, but I was **very happy with Fall of the Jedi**. Yes, there were a few cool scenes that I missed, but when considering what story this is intending to tell, namely the fall of the Jedi, **it tells a very coherent story**. **Next time I want to watch the prequels, I think I'm honestly much more likely to watch this Fall of the Jedi cut than any of the original source material**...
 
