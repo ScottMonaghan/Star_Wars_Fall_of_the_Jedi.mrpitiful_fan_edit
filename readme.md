@@ -45,6 +45,30 @@ This is getting pretty long so I added a
 **Please let me know if you think I succeeded or not at scott.monaghan@gmail.com!**
 
 ##Reviews!
+###[/u/Devee's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/)
+####Liked:
+> I'd never seen any fan edit previously, but I was **very happy with Fall of the Jedi**. Yes, there were a few cool scenes that I missed, but when considering what story this is intending to tell, namely the fall of the Jedi, **it tells a very coherent story**. **Next time I want to watch the prequels, I think I'm honestly much more likely to watch this Fall of the Jedi cut than any of the original source material**...
+
+> **Fall of the Jedi works well by cutting most of the Phantom Menace**. I didn't realize how unimportant it was. Everybody's favorite part is usually Darth Maul, and that was still included in the prologue.
+
+> **I'm a lot happier with Padme and Anakin's romance** in the Fall of the Jedi cut than the original. It's hard for me to remember specifics because it's been a while since I watched it, but I remember there being issues with it. **One thing that this cut completely removes is the awkwardness of the age difference**...
+
+> **The jump forward in time was well done.** The story worked very well opening on the assassination attempt... 
+
+>**The pacing of the RotS arc was great** I thought. **Everything made sense**. Honestly, I didn't realize things were re-ordered until I re-read the reddit post.
+
+####Didn't Like:
+> **The Attack of the Clones segment seemed a bit rushed to me**. There's so much to include that there isn't any down time... A little more breathing room might be nice...
+
+> There's also a scene at the end of the Attack of the Clones section in which Anakin asks Padme "you call this a diplomatic solution?" She responds "no, I call it aggressive negotiations." I understand the reference to Anakin's mention of aggressive negotiations, but was Anakin's question about a diplomatic solution a reference to something Padme said? I might have missed it, it might have been cut, or it might not have been a reference. **It just felt out of place**...
+
+> **It felt odd not seeing Grievous**. I understand the reasoning, but he was cool.
+
+> I thought the clones felt rushed because we don't hear very much about them...
+
+####Didn't Like:
+> My one criticism would be that (especially in the first half) **a lot of moments didn't feel like they had a chance to land**. We would see a scene and then immediately transition to something else without a moment for breath...
+
 ###[/u/button_man's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7e0r2w)
 ####Liked:
 > I had **seen another edit** a few years ago but **this one is far and away superior**... 
@@ -57,6 +81,7 @@ This is getting pretty long so I added a
 
 ####Didn't Like:
 > My one criticism would be that (especially in the first half) **a lot of moments didn't feel like they had a chance to land**. We would see a scene and then immediately transition to something else without a moment for breath...
+
 
 ##Summary of Edits
 ### 1.1
