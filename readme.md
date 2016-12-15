@@ -45,6 +45,11 @@ This is getting pretty long so I added a
 **Please let me know if you think I succeeded or not at scott.monaghan@gmail.com!**
 
 ##Reviews!
+###[/u/DudeFromThatOneThing's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/db8rc7m/)
+####Liked:
+> This is **by far the best edit of the prequels I've seen yet**. My gf has never seen Star Wars and this is the **best condensation of all the important parts for Machete viewing order**. Super stoked to introduce her to the saga and not have to worry about losing her interest with the crappy parts of the prequels. **Awesome job!**
+
+
 ###[/u/Gray_party_of_2's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7jubzc)
 ####Liked:
 > I got a chance to watch this and I will say that **I am very impressed**. I **very good job**. I was surprised by some of the cuts but taken in context of the end goal I think I am on board. I think lots of the action scenes that were cut are fun to watch but in the end are not needed for the story to work and get us to a reasonable movie length.
