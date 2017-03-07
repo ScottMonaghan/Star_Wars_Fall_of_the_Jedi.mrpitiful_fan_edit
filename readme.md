@@ -241,7 +241,8 @@ To get this whole thing to work, I have a single reference frame in video track 
 4. Export to your favorite format 
   Recommended Export Settings:
   ![Recommended Export Settings](http://imgur.com/5n6QxqG.png)
-
+  
+**NOTE: Exporting the video can take a long time, depending on the speed of your computer**
 
 ### VII: ENJOY THE FILM!!!
 
