@@ -4,61 +4,53 @@ Questions? Contact me at scott.monaghan@gmail.com
 
 # Star Wars: Fall of the Jedi -  Mr Pitiful's Open Source Fan Edit of Episodes I - III
 
-This is one Star Wars fan's passion project, taking the mess of Episodes I-III 
-and editing them into a single, cohesive, and hopefully decent film.
+This is one Star Wars fan's passion project, taking the mess of Episodes I-III and editing them into a single, cohesive, and hopefully decent film. It is also an attempt to show this can be done legally and through open source. This repo includes only the Adobe Premiere project files and reference stills.
 
-It is also an attempt to show this can be done legally and through open source.
-This repo includes only the Adobe Premiere project files and reference stills.
+To watch the movie, legally owned copies of the source films will need to be added to the project, and then the film can be rendered. How do you do that?  Instructions below!
 
-To watch the movie, legally owned copies of the source films will need to be 
-added to the project, and then the film can be rendered.  
-
-How do you do that?  Instructions below!
-
-##But first, watch a clip!
+## But first, watch a clip!
 Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away from the action, as it was edited in the original Revenge of the Sith.
 [![Yoda Battles Palpatine from Star Wars: Fall of the Jedi - Mr Pitiful Fan Edit ](http://imgur.com/sZYWpZL.png)](https://vimeo.com/180134011)
 
-This is getting pretty long so I added a
-##Table of Contents
-* [Goals of Finished Edit](#goals-of-finished-edit)
-* [Reviews!](#reviews)
-* [Summary of Edits](#summary-of-edits)
-* [How to Render and Watch](#tldr-of-how-to-render-and-watch)
+This is getting pretty long so I added a...
+## Table of Contents
+1. [Goals of Finished Edit](#goals-of-finished-edit)
+2. [Reviews!](#reviews)
+3. [Summary of Edits](#summary-of-edits)
+4. [How to Render and Watch](#tldr-of-how-to-render-and-watch)
 
 ## Goals of Finished Edit
 
-* Create a single cohesive film that is enjoyable and does not require any previous Star Wars knowledge.
-* Focus on the Anakin arc from Jedi hero to the dark side, plus the arc of the fall of the Republic in the background. 
-* Ensure that the nothing in the changed edit contradicts [Star Wars canon](https://en.wikipedia.org/wiki/Star_Wars_canon). 
-* When watched in [Machete order](http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/), the cut should have no spoilers and provide everything needed to bridge between Episodes V-VI.
-* Cut anything that distracts from above.
-* Keep the fun popcorn action-adventure tone of the franchise.
+* Create a single cohesive film that is enjoyable and does not require any previous Star Wars knowledge
+* Focus on the Anakin arc from Jedi hero to the dark side, plus the arc of the fall of the Republic in the background
+* Ensure that the nothing in the changed edit contradicts [Star Wars canon](https://en.wikipedia.org/wiki/Star_Wars_canon)
+* When watched in [Machete order](http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/), the cut should have no spoilers and provide everything needed to bridge between Episodes V-VI
+* Cut anything that distracts from above
+* Keep the fun popcorn action-adventure tone of the franchise
 * Play down and eliminate what I consider to be the most unwatchable elements of the sequels:
   * Complex political speeches
   * Misfired comic relief (Jar Jar Binks, C3PO & R2D2)
   * Anakin's childlike emotional outbursts
-  * The age difference between Anakin and Padme
-  * The lack of believable chemistry and terrible dialogue between Anakin and Padme
+  * The age difference, lack of believable chemistry, and terrible dialogue between Anakin and Padme
     * **Editor's Note:** The way I look at it is, you don't need to understand _why_ they fell in love, just that they _did_, if inexplicably.  Which, of course, happens all the time in real life.  I'm sure anyone can think right now of a friend or family member that is in a relationship with someone that makes absolutely no sense to anyone.
   
 **Please let me know if you think I succeeded or not at scott.monaghan@gmail.com!**
 
-##Reviews!
-###[/u/DudeFromThatOneThing's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/db8rc7m/)
-####Liked:
+## Reviews!
+### [/u/DudeFromThatOneThing's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/db8rc7m/)
+#### Liked:
 > This is **by far the best edit of the prequels I've seen yet**. My gf has never seen Star Wars and this is the **best condensation of all the important parts for Machete viewing order**. Super stoked to introduce her to the saga and not have to worry about losing her interest with the crappy parts of the prequels. **Awesome job!**
 
 
-###[/u/Gray_party_of_2's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7jubzc)
-####Liked:
+### [/u/Gray_party_of_2's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7jubzc)
+#### Liked:
 > I got a chance to watch this and I will say that **I am very impressed**. I **very good job**. I was surprised by some of the cuts but taken in context of the end goal I think I am on board. I think lots of the action scenes that were cut are fun to watch but in the end are not needed for the story to work and get us to a reasonable movie length.
 I have not watch any cut version before, so I was going in blind. **The opening scene with Darth Mal(sp?) looking right at us and going right into the action was a lot of fun.**
 In closing, **I LOVED IT**. Thank you so much for sharing!
 
 
-###[/u/Devee's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7h9anw)
-####Liked:
+### [/u/Devee's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7h9anw)
+#### Liked:
 > I'd never seen any fan edit previously, but I was **very happy with Fall of the Jedi**. Yes, there were a few cool scenes that I missed, but when considering what story this is intending to tell, namely the fall of the Jedi, **it tells a very coherent story**. **Next time I want to watch the prequels, I think I'm honestly much more likely to watch this Fall of the Jedi cut than any of the original source material**...
 
 > **Fall of the Jedi works well by cutting most of the Phantom Menace**. I didn't realize how unimportant it was. Everybody's favorite part is usually Darth Maul, and that was still included in the prologue.
@@ -69,7 +61,7 @@ In closing, **I LOVED IT**. Thank you so much for sharing!
 
 >**The pacing of the RotS arc was great** I thought. **Everything made sense**. Honestly, I didn't realize things were re-ordered until I re-read the reddit post.
 
-####Didn't Like:
+#### Didn't Like:
 > **The Attack of the Clones segment seemed a bit rushed to me**. There's so much to include that there isn't any down time... A little more breathing room might be nice...
 
 > There's also a scene at the end of the Attack of the Clones section in which Anakin asks Padme "you call this a diplomatic solution?" She responds "no, I call it aggressive negotiations." I understand the reference to Anakin's mention of aggressive negotiations, but was Anakin's question about a diplomatic solution a reference to something Padme said? I might have missed it, it might have been cut, or it might not have been a reference. **It just felt out of place**...
@@ -79,8 +71,8 @@ In closing, **I LOVED IT**. Thank you so much for sharing!
 > I thought the **clones felt rushed** because we don't hear very much about them...
 
 
-###[/u/button_man's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7e0r2w)
-####Liked:
+### [/u/button_man's Reddit Review of v1.1](https://www.reddit.com/r/starwarsprecut/comments/517exw/star_wars_fall_of_the_jedi_mr_pitiful_open_source/d7e0r2w)
+#### Liked:
 > I had **seen another edit** a few years ago but **this one is far and away superior**... 
 
 > I like that **there was a coherent story** and I tried to watch and judge it as if I had no knowledge of the prequels. I think **this movie was successful as a standalone**...
@@ -89,34 +81,26 @@ In closing, **I LOVED IT**. Thank you so much for sharing!
 
 > **Overall this was fantastic!** I will definitely be rewatching it in the future and hope to show friends that have never seen the prequels before and hear their take on it. **Also I loved the Marvel-esque mid credits scene for the kids**. Great work and thanks again for sharing...
 
-####Didn't Like:
+#### Didn't Like:
 > My one criticism would be that (especially in the first half) **a lot of moments didn't feel like they had a chance to land**. We would see a scene and then immediately transition to something else without a moment for breath...
 
 
-##Summary of Edits
+## Summary of Edits
 ### 1.1
 **Updated Ending**
 * Props to http://reddit.com/u/noodle-flinger for inspiration
-* Removed excess dialogue and reactions surrounding padme’s delivery
-and death
-* Split Padme’s delivery and transformation into Vader into two
-separate sequences
-* Removed Padme naming Leia as to not serve as spoiler for ROTJ when
-watching in machete order
-* Added rhythmic fadeouts to simulate  Vader’s coming in and out of
-consciousness during his surgery
+* Removed excess dialogue and reactions surrounding padme’s delivery and death
+* Split Padme’s delivery and transformation into Vader into two separate sequences
+* Removed Padme naming Leia as to not serve as spoiler for ROTJ when watching in machete order
+* Added rhythmic fadeouts to simulate  Vader’s coming in and out of consciousness during his surgery
 * Cut directly from Padme’s death to Vader’s rise
 * Removed Vader’s zombie walk and NOooOOOOooOOoOO
-* Removed “what do we do with the kids and where do we go now”
-conversation between Yoda, Obi Wan and Organa
-* Cut right to “Directed by George Lucas” following Vader, Palpatine,
-and Tarkin looking over the construction of the Death Star
-* Updated the initial (non-scrolling) credits to include credits from
-all 3 movies without split screen.
+* Removed “what do we do with the kids and where do we go now” conversation between Yoda, Obi Wan and Organa
+* Cut right to “Directed by George Lucas” following Vader, Palpatine, and Tarkin looking over the construction of the Death Star
+* Updated the initial (non-scrolling) credits to include credits from all 3 movies without split screen.
 * Add Mr. Pitiful:) to the credits as one of the editors
 * Moved hopeful delivery of Leia and Luke to mid-credits scene
-  * (an attempt at a humorous take on the Marvel Cinematic Universe’s
-habit of post-credit scenes teasing future films)
+  * (an attempt at a humorous take on the Marvel Cinematic Universe’s habit of post-credit scenes teasing future films)
 
 ### 1.0
 **Initial Release!**
@@ -149,16 +133,16 @@ habit of post-credit scenes teasing future films)
 ## Step-by-Step Instructions of How to Render and Watch
 
 ### What You'll Need to Get Started:
-* **Adobe Premiere CC 2016 or Later**
+* **Adobe Premiere CC 2016 or later**
   * Available for $19.99 - $29.99/mo from [Adobe Creative Cloud](https://creative.adobe.com/plans?single_app=premiere)
-* **Legal Digital Copies of Star Wars Episodes I - III**
+* **Legal digital copies of Star Wars Episodes I - III**
   * From iTunes Store (recommended)
     * [Star Wars: The Phantom Menace](https://itunes.apple.com/us/movie/star-wars-the-phantom-menace/id975080816)
     * [Star Wars: Attack of the Clones](https://itunes.apple.com/us/movie/star-wars-attack-of-the-clones/id975101586)
     * [Star Wars: Revenge of the Sith](https://itunes.apple.com/us/movie/star-wars-revenge-of-the-sith/id975521762)
-  * Have Different Legal Digital Copies of Episodes I-III?
-    * Don't worry, they will likely still work.  You just need to get them into a format that you can import into Premiere. 
-    * Email me at scott.monaghan@gmail.com and I can help if you have any trouble.
+  * Have non-iTunes legal digital copies of Episodes I - III?
+    * Don't worry, they will likely still work.  You just need to get them into a format that you can import into Premiere
+    * Email me at scott.monaghan@gmail.com and I can help if you have any trouble
 * **Noteburner** (only for iTunes copies of the movies)
     * Removes DRM from iTunes movies to allow them to be imported into Premiere
     * $19.99 from [noteburner.com](https://noteburner.com)
@@ -213,7 +197,7 @@ If you've used the iTunes versions of these movies, chances are, everything is n
 
 To get this whole thing to work, I have a single reference frame in video track 3 of Alignment Sequences of the exact point when the Star Wars logo first appears.  As long as you align the clip in video track 2 to match the reference frame perfectly, the edits for the whole movie should be correct.
 
-####Here's what we need to do:
+#### Here's what we need to do:
 1. Expand the "Episode I" folder under the "Source" folder in the Project window.
 2. Double Click on "Episode I Alignment Sequence"
   ![Alignment Sequence in Project Window](http://imgur.com/lw4Wuo3.png)
@@ -242,7 +226,7 @@ To get this whole thing to work, I have a single reference frame in video track 
   Recommended Export Settings:
   ![Recommended Export Settings](http://imgur.com/5n6QxqG.png)
   
-**NOTE: Exporting the video can take a long time, depending on the speed of your computer**
+NOTE: Exporting the video can take a long time, depending on the speed of your computer
 
 ### VII: ENJOY THE FILM!!!
 
