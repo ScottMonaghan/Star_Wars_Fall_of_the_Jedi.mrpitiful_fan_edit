@@ -8,10 +8,6 @@ This is one Star Wars fan's passion project, taking the mess of Episodes I-III a
 
 To watch the movie, legally owned copies of the source films will need to be added to the project, and then the film can be rendered. How do you do that?  Instructions below!
 
-## But first, watch a clip!
-Here Yoda and Palpatine battle, uninterrupted, without constantly cutting away from the action, as it was edited in the original Revenge of the Sith.
-[![Yoda Battles Palpatine from Star Wars: Fall of the Jedi - Mr Pitiful Fan Edit ](http://imgur.com/sZYWpZL.png)](https://vimeo.com/180134011)
-
 This is getting pretty long so I added a...
 ## Table of Contents
 1. [Goals of Finished Edit](#goals-of-finished-edit)
@@ -86,6 +82,14 @@ In closing, **I LOVED IT**. Thank you so much for sharing!
 
 
 ## Summary of Edits
+### 1.2
+ * Added back in the Dooku battle from ROTS
+   * I had tried this with my first two releases but I just couldn't get it in cleanly without bloating the film.
+   * The lack of closure with Dooku as the major-established villian always REALLY bugged me.
+   * I think I finally got it with this release.
+ * Shortened the car-chase from AOTC - it just went on for too long!
+ * Cleaned up the Obi-Wan / Anakin duel significantly
+ 
 ### 1.1
 **Updated Ending**
 * Props to http://reddit.com/u/noodle-flinger for inspiration
